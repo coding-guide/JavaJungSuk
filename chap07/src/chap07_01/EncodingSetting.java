@@ -3,7 +3,7 @@ package chap07_01;
 public class EncodingSetting {
 
 	public static void main(String[] args) {
-		System.out.println("ÀÏ ¿ù È­ ¼ö ¸ñ ±İ Åä");
+		System.out.println("ì¼ ì›” í™” ìˆ˜ ëª© ê¸ˆ í† ");
 	}
 
 }
